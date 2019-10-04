@@ -1,0 +1,82 @@
+ body{
+	background-image: linear-gradient(rgba(255,0,0,.8), rgba(255,0,0,0)), url(image/aa.jpg);
+}
+h1 {
+	text-align: center;
+	font-family: 'Caveat', cursive;
+	color: #FF928A;
+	font-weight: 800;
+	margin-bottom: 10px
+}
+
+#forme{
+	font-family: 'Dancing Script', cursive;
+}
+.eating{
+	color: ;
+	font-family: 'Dancing Script', cursive;
+}
+
+.container{
+	width: 50%;
+	margin: 20px auto;
+}
+
+a:hover{
+	color: green;
+}
+
+body{
+	text-align: center;
+	color: #FF928A;
+	font-weight: 700
+	font-family: 'Tangerine', cursive;
+	box-shadow: 20px
+}
+
+a{
+	text-align: center;
+	text-decoration: none;
+}
+
+.img{
+border-radius: 50%;
+border: 30px solid;
+width: 50px;
+}
+
+.card{
+	background-color: rgba(0,0,0,0.2);
+	margin:30px;
+	padding: 20px 30px;
+    border-radius: 10%
+}
+
+ul{
+	padding-left: 0px;
+	list-style: none;
+}
+
+h2{
+	font-family: 'Caveat', cursive;
+	padding: 10px 10px;
+	margin: 20px
+}
+
+h3{
+	font-family: 'Caveat', cursive;
+	padding: 0px 5px;
+	margin: 2px;
+}
+a:hover{
+	color: green;
+}
+
+title-red {
+	color: red;
+}
+
+li {
+	display : inline; 
+}
+
